@@ -1,2 +1,2 @@
-# AWG-I1-5-Generator
+# AWG-I-Gen
 Генератор I1-5 для AmneziaWG
